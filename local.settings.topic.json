@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "ServiceBusConnection": "Endpoint=sb://test20240419-sbns-vcom-planos-dev-001.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KX2VmWnEXCXotB8OQpsRpuPiECBc+L1RF+ASbD30ous="
+  }
+}
